@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, What's up👋
 
 <!--
 **praditya7/praditya7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
